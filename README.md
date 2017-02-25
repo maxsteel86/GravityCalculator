@@ -1,4 +1,5 @@
-GravityCalculator
+PlanetaryCalculations
 -----------------
 
-Calculate the force of gravity from a mass at a certain distance.
+Calculations of things like gravitational field strength of a mass at certain distances,
+the barycentre of two masses and other stuff.  Will update as I go along.
